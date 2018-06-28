@@ -1,0 +1,6 @@
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\bin\Debug\Android_Emulator_Starter.exe
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\bin\Debug\Android_Emulator_Starter.pdb
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\obj\Debug\Android Emulator Starter.csprojResolveAssemblyReference.cache
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\obj\Debug\Android Emulator Starter.csproj.CoreCompileInputs.cache
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\obj\Debug\Android_Emulator_Starter.exe
+C:\Users\Okan\RiderProjects\Android Emulator Starter\Android Emulator Starter\obj\Debug\Android_Emulator_Starter.pdb
